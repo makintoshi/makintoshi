@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Amanda Makino (@makintoshi)
 - 👀 I’m interested in .NET development, Product management and Agile
 - 🌱 I’m currently learning Phyton
-- 📫 How to reach me amandamakino@gmail.com
+- 📫 How to reach me @amandamakino (Instagram/Twitter/LinkedIn)
 
 <!---
 makintoshi/makintoshi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
